@@ -18,7 +18,11 @@ Sales KPIs & Metrics
 📊 Key Insights
 Identified top-selling products and peak sales hours
 
-Analyzed sales trends by product category, time, and location
+Analyzed sales trends by produ
+
+https://github.com/user-attachments/assets/83e60549-132e-4018-90c3-1aabdaf49d92
+
+ct category, time, and location
 
 Tracked key performance indicators (KPIs) like total revenue, average order value, and sales growth
 
